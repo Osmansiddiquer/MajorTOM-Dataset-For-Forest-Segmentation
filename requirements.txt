@@ -1,0 +1,4 @@
+git+https://github.com/ESA-PhiLab/Major-TOM.git
+datasets
+leafmap
+geemap
